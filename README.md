@@ -35,6 +35,8 @@ Key Variables: Capacity, Energy Efficiency Rating, Country of Manufacture, etc.
 
 Findings: Linear regression analysis revealed that typical hardware specifications have no statistically significant impact on price variations. The low coefficients and p-values for these variables indicate that physical features are no longer the primary drivers of cost in the current market.
 
+<img width="596" height="528" alt="사진" src="https://github.com/user-attachments/assets/0a22ef77-c759-48a7-ae48-213964ab2cc1" />
+
 Interpretation: This "lack of significance" suggests that technical specs have become a baseline (standardized) rather than a premium differentiator.
 
 [Overall Conclusion & Strategic Insights]

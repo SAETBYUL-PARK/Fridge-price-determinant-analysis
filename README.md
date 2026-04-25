@@ -44,3 +44,7 @@ Interpretation: This "lack of significance" suggests that technical specs have b
 Based on the findings, I propose the following strategic directions for home appliance manufacturers:
 
 Shift from R&D to Brand Positioning: As hardware specifications (capacity, materials) undergo technological commoditization, incremental technical upgrades no longer justify high price premiums. Companies should reallocate resources from pure technical R&D to Brand Storytelling and Lifestyle Positioning.
+
+## Data source
+[fridge_price_predictor_datasets_real_brands.csv on Kaggle](https://www.kaggle.com/datasets/souradippal/fridge-price-prediction-dataset)
+

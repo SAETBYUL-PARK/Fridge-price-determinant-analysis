@@ -12,14 +12,13 @@ Library: tidyverse (dplyr, ggplot2), broom
 Database Design: Entity Relationship Diagram (ERD)
 
 💾 Database Design (ERD)
-To ensure data integrity and analytical efficiency, the unstructured CSV dataset was normalized into three logical entities: BRAND, PRODUCT, and PRICE.
+To ensure data integrity and analytical efficiency, the unstructured CSV dataset was normalized into two logical entities: BRAND, PRODUCT.
 
-<img width="1312" height="676" alt="사진" src="https://github.com/user-attachments/assets/39a81cca-f62f-4e25-8dec-05eab1448b2e" />
+<img width="892" height="757" alt="캡처1" src="https://github.com/user-attachments/assets/3855889e-235c-43c2-937c-36a1288ff6b2" />
+
 
 [Key Design Strategies]
 Normalization: Separated brand details and product specifications to eliminate data redundancy and enhance maintainability.
-
-Scalability: Designed PRICE as an independent table to easily accommodate future data such as price history across different retailers or time-series price fluctuations.
 
 Logical Dependency: Established a structure where Price is primarily dependent on Brand and Country of Manufacture, ensuring that market-specific pricing strategies and brand positioning are accurately reflected in the data model.
 

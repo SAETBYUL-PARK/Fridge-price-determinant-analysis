@@ -25,6 +25,11 @@ Logical Dependency: Established a structure where Price is primarily dependent o
 📊 Data Analysis & Insights
 Key findings from the Exploratory Data Analysis (EDA) and Regression Modeling using R:
 
+<details>
+<summary><b>Click to expand the 8 research hypotheses</b></summary>
+  1. **Manufacturing Origin & Warranty Premium**
+   * Hypothesis: The impact of warranty periods on price premiums will show an exponential increase specifically for products manufactured in high-cost regions.
+  
 1. Statistical Significance Testing
 Conducted ANOVA to verify whether 'Brand' and 'Country of Manufacture' lead to statistically significant differences in price.
 

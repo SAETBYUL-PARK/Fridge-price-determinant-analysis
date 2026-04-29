@@ -25,10 +25,15 @@ Logical Dependency: Established a structure where Price is primarily dependent o
 📊 Data Analysis & Insights
 Key findings from the Exploratory Data Analysis (EDA) and Regression Modeling using R:
 
-<details>
-<summary><b>Click to expand the 8 research hypotheses</b></summary>
-  1. **Manufacturing Origin & Warranty Premium**
-   * Hypothesis: The impact of warranty periods on price premiums will show an exponential increase specifically for products manufactured in high-cost regions.
+### 🧪 Key Hypotheses & Statistical Findings
+
+Using R for statistical testing (ANOVA) and data visualization, the following hypotheses were tested:
+
+| No | Research Hypothesis | Analysis Result & Conclusion |
+| :--- | :--- | :--- |
+| **03** | **Energy Rating vs. Capacity**<br>Does larger capacity drive price increases even when energy efficiency is low? | **Rejected.** Capacity does not significantly impact price changes, suggesting energy rating alone isn't a primary price driver. |
+| **06** | **Door Type & Capacity Effect**<br>Do specific door types lead to larger capacities and subsequent price premiums? | **Not Significant.** No substantial price fluctuations were observed based on capacity changes related to door types. |
+| **08** | **The 'Brand Logo' Factor**<br>Is the brand logo the most dominant factor influencing a refrigerator's price premium? | **Supported.** The analysis confirms that 'Brand Equity' is the most critical determinant of market price premiums. |
   
 1. Statistical Significance Testing
 Conducted ANOVA to verify whether 'Brand' and 'Country of Manufacture' lead to statistically significant differences in price.
